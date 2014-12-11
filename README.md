@@ -6,7 +6,7 @@ Every long term project needs regular releases. And each release needs a name. E
 **Coffee beverages**
 * Americano
 * Caffe latte
-* Medici
+* Medici  
 (source: http://en.wikipedia.org/wiki/List_of_coffee_beverages)
 
 **British pop bands**
