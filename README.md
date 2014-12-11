@@ -3,6 +3,12 @@ Release names
 
 Every long term project needs regular releases. And each release needs a name. Even more - it needs a cool name. Here is a list of different release name branches. If you'd like to add more branches or examples, fork the repo, edit the README.md and send a pull request.
 
+**Coffee beverages**
+* Americano
+* Caffe latte
+* Medici
+(source: http://en.wikipedia.org/wiki/List_of_coffee_beverages)
+
 **British pop bands**
 * Spice Girls (Major)
 * Westlife (Major)
